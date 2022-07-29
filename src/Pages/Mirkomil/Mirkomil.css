@@ -1,5 +1,75 @@
-.signup{
+.loading{
     width: 450px;
-    height: 84px;
-    background-color: #00000000;
+    height: 844px;
+    background: rgba(0, 0, 0, 0.76);
+    border-radius: 25px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 } 
+.sec_top_img{
+    margin-left: 220px;
+}
+.sec_centor{
+    padding-top: 268px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sashlik{
+    font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #FE4949;
+}
+.uz{
+    color: #BAD030;
+}
+.sec_bottom{
+    padding-top: 150px;
+}
+.royxat{
+    font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+color: #FFFFFF;
+    padding-top: 195px;
+}
+  form> input{
+    width: 247px;
+    height: 55px;
+    border: 1px solid #FE4949;
+border-radius: 40px;
+background: none ;
+margin-left: 100px;
+margin-bottom: 15px;
+outline: none;
+}
+
+::placeholder{
+    padding-left: 10px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 17px;
+    
+} 
+
+.btn_sign{
+    width: 247px;
+    height: 55px;
+    font-size: 19px;
+    border-radius: 40px;
+    background: #FE4949;
+    margin-left: 100px;
+    color: #FFFFFF;
+    margin-top: 35px;
+}
