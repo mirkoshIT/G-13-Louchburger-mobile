@@ -1,0 +1,26 @@
+.xodimlaroyxati{
+    font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+color: #FFF500;
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 198px;
+}
+form> input{
+    width: 247px;
+    height: 55px;
+    border: 1px solid #FE4949;
+border-radius: 40px;
+background: none ;
+margin-left: 100px;
+margin-bottom: 15px;
+outline: none;
+color: #BAD030;
+font-size: 18px;
+padding-left: 10px;
+}

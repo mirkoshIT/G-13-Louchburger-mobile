@@ -25,9 +25,8 @@ line-height: 48px;
 
 color: #FE4949;
 }
-.uz{
-    color: #BAD030;
-}
+
+
 .sec_bottom{
     padding-top: 150px;
 }
@@ -53,6 +52,9 @@ background: none ;
 margin-left: 100px;
 margin-bottom: 15px;
 outline: none;
+color: #BAD030;
+font-size: 18px;
+padding-left: 10px;
 }
 
 ::placeholder{
@@ -72,4 +74,18 @@ outline: none;
     margin-left: 100px;
     color: #FFFFFF;
     margin-top: 35px;
+}
+.bgc{
+    width: 46px;
+    height: 49px;
+    background: #858585;    
+    border-radius: 50%;
+    color: #BAD030   ;
+}
+hr{
+    width: 260px;
+    height: 1px;
+    background-color: 
+    #FE4949;
+    border: none;
 }

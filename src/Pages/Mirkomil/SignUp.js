@@ -1,4 +1,5 @@
 import React from "react";
+import  { navigate, useNavigate} from "react-router-dom"
 import "./Mirkomil.css"
 export function SignUp() {
     return(
