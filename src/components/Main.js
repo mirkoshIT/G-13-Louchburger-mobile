@@ -11,7 +11,7 @@ export function Main(){
         <div >
             {/* <Mirkomil/> */}
             {/* <Muhammadsaid/> */}
-            {/* <Bobur/> */}
+            <Bobur/>
             <SignUp/>
             <SignIn/>
 

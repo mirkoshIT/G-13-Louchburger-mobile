@@ -58,7 +58,7 @@ padding-left: 10px;
 }
 
 ::placeholder{
-    padding-left: 10px;
+    /* padding-left: 10px; */
     color: #FFFFFF;
     font-weight: 700;
     font-size: 17px;
