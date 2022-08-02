@@ -11,8 +11,13 @@ export function Main(){
         <div >
             {/* <Mirkomil/> */}
             {/* <Muhammadsaid/> */}
+<<<<<<< HEAD
             <Bobur/>
             <SignUp/>
+=======
+            {/* <Bobur/> */}
+            {/* <SignUp/> */}
+>>>>>>> c1b40738a7c027a14ca5eaaa464ee63556e43c9b
             <SignIn/>
 
         </div>

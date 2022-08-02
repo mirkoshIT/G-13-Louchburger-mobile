@@ -24,3 +24,13 @@ color: #BAD030;
 font-size: 18px;
 padding-left: 10px;
 }
+
+.signin{
+    width: 450px;
+    height: 844px;
+    background: rgba(0, 0, 0, 0.76);
+    border-radius: 25px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
